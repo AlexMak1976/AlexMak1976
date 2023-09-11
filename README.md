@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexMak1976
-- 👀 I’m interested in 3D archviz.
-- 🌱 I’m currently learning Unreal Engine and Quixel Mixer. 
+- 👀 I’m interested in 3D.
+- 🌱 I’m currently learning C++. 
 
 
 
